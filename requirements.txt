@@ -1,3 +1,0 @@
-gradio
-scikit-learn
-numpy
